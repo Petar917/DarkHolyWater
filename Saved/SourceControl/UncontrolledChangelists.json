@@ -1,0 +1,41 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/jacke/Documents/Unreal Projects/DarkHolyWater/Content/StarterContent/Props/MaterialSphere.uasset",
+				"C:/Users/jacke/Documents/Unreal Projects/DarkHolyWater/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/jacke/Documents/Unreal Projects/DarkHolyWater/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/EI/8RZ9YHNKALHNQU3LK7C7CF.uasset",
+				"C:/Users/jacke/Documents/Unreal Projects/DarkHolyWater/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/FB/VBJHN6KLG8LGJJAXBO93T1.uasset",
+				"C:/Users/jacke/Documents/Unreal Projects/DarkHolyWater/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/A1/AVCMY60QKQ4LS8QL58JUMQ.uasset",
+				"C:/Users/jacke/Documents/Unreal Projects/DarkHolyWater/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/UF/1OXXI206EBEN6LRW7QEKJD.uasset",
+				"C:/Users/jacke/Documents/Unreal Projects/DarkHolyWater/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/DB/QYKTXEIPCXXNNL1XLSRWGF.uasset",
+				"C:/Users/jacke/Documents/Unreal Projects/DarkHolyWater/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/W7/PLV5CQ7ESQEK3MQPA0NP52.uasset",
+				"C:/Users/jacke/Documents/Unreal Projects/DarkHolyWater/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/jacke/Documents/Unreal Projects/DarkHolyWater/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/MF/O2SVA7KG1DBSM49L9OWSRQ.uasset",
+				"C:/Users/jacke/Documents/Unreal Projects/DarkHolyWater/Content/MyFolder/Blueprints/Misc/BP_SpawnPoint.uasset",
+				"C:/Users/jacke/Documents/Unreal Projects/DarkHolyWater/Content/MyFolder/Blueprints/Misc/BP_Door.uasset",
+				"C:/Users/jacke/Documents/Unreal Projects/DarkHolyWater/Content/MyFolder/Blueprints/Pawns/BP_Fighter.uasset",
+				"C:/Users/jacke/Documents/Unreal Projects/DarkHolyWater/Content/MyFolder/Management/GM_Origin.uasset",
+				"C:/Users/jacke/Documents/Unreal Projects/DarkHolyWater/Content/MyFolder/Levels/MainMenuMap.umap",
+				"C:/Users/jacke/Documents/Unreal Projects/DarkHolyWater/Content/MyFolder/Blueprints/UI/WBP_MainMenu.uasset",
+				"C:/Users/jacke/Documents/Unreal Projects/DarkHolyWater/Content/MyFolder/Management/GM_UI.uasset",
+				"C:/Users/jacke/Documents/Unreal Projects/DarkHolyWater/Content/Blueprints/NewPlayerController.uasset",
+				"C:/Users/jacke/Documents/Unreal Projects/DarkHolyWater/Content/MyFolder/Blueprints/UI/WBP_Optionmenu.uasset",
+				"C:/Users/jacke/Documents/Unreal Projects/DarkHolyWater/Content/MyFolder/Blueprints/UI/WBP_PauseMenu.uasset",
+				"C:/Users/jacke/Documents/Unreal Projects/DarkHolyWater/Content/ThirdPerson/Input/Actions/AI_Pause.uasset",
+				"C:/Users/jacke/Documents/Unreal Projects/DarkHolyWater/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/jacke/Documents/Unreal Projects/DarkHolyWater/Content/MyFolder/Blueprints/UI/WBP_Credit.uasset",
+				"C:/Users/jacke/Documents/Unreal Projects/DarkHolyWater/Content/MyFolder/Testing.uasset",
+				"C:/Users/jacke/Documents/Unreal Projects/DarkHolyWater/Content/MyFolder/MainMenu.uasset",
+				"C:/Users/jacke/Documents/Unreal Projects/DarkHolyWater/Content/MyFolder/BP_Fighter.uasset",
+				"C:/Users/jacke/Documents/Unreal Projects/DarkHolyWater/Content/MyFolder/BP_SpawnPoint.uasset",
+				"C:/Users/jacke/Documents/Unreal Projects/DarkHolyWater/Content/MyFolder/BP_Door.uasset",
+				"C:/Users/jacke/Documents/Unreal Projects/DarkHolyWater/Content/MyFolder/Management/Testing.uasset",
+				"C:/Users/jacke/Documents/Unreal Projects/DarkHolyWater/Content/MyFolder/Blueprints/UI/MainMenu.uasset"
+			]
+		}
+	]
+}
